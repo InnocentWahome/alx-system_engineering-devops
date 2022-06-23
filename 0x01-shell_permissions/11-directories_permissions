@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod guo+x -type d
+chmod 751 -R -type d
